@@ -19,7 +19,7 @@ Hi there 👋
 - ##
 
 📫 Connect With Me
-[LinkedIn](linkedin.com/in/garvit-satija-0b4a57220)
+[LinkedIn](https://www.linkedin.com/in/garvit-satija-0b4a57220)
 
 <!--
 **GarvitSatija4/GarvitSatija4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
