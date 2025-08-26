@@ -2,7 +2,7 @@ Hi there 👋
 
 🎓 Statistics & Economics @ Ramjas College, DU  
 📊 Passionate about Finance, Risk Modeling, and Data Science  
-💻 Python | R | SQL | Excel | Financial Modeling  
+💻 Python | R | C | SQL | Excel | Financial Modeling 
 
 ---
 
