@@ -1,4 +1,24 @@
-## Hi there 👋
+Hi there 👋
+
+🎓 Statistics & Economics @ Ramjas College, DU  
+📊 Passionate about Finance, Risk Modeling, and Data Science  
+💻 Python | R | SQL | Excel | Financial Modeling  
+
+---
+
+### 🚀 My Skills
+- **Programming:** Python, R, SQL  
+- **Finance & Stats:** Risk Modeling, Portfolio Optimization, Econometrics  
+- **Tools:** Excel, Git, Jupyter, Tableau  
+
+---
+
+### 📌 Featured Projects
+- [📈 Portfolio Optimization with VaR](https://github.com/GarvitSatija4/portfolio-optimization)
+- [🔍 Trade Reconciliation Project](https://github.com/GarvitSatija4/trade-reconciliation)##
+
+📫 Connect With Me
+[![LinkedIn](linkedin.com/in/garvit-satija-0b4a57220)
 
 <!--
 **GarvitSatija4/GarvitSatija4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
